@@ -1,0 +1,2 @@
+# Amethyst
+purple discord theme
