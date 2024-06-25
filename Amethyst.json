@@ -26,47 +26,47 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#77AB8F",
+      "#A08EC9",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#77AB8F",
+      "#A08EC9",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#77AB8F",
+      "#A08EC9",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#2C4638",
+      "#48405A",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#1E3E2D",
+      "#6A52A8",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#23382D",
+      "#594B7A",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1D3A2B",
+      "#4D4267",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#264836",
+      "#584B76",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#508368",
+      "#A08EC9",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1E3E2D",
+      "#6A52A8",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#23382D",
+      "#594B7A",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -74,23 +74,23 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#50836817",
+      "#A08EC917",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#77AB8F",
+      "#A08EC9",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1E3E2D",
+      "#6A52A8",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#508368",
+      "#6A52A8",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#77AB8F",
+      "#A08EC9",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
@@ -102,7 +102,7 @@
       "#ffffff"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#1E3E2D99",
+      "#6A52A899",
       "#ffffff"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -118,11 +118,11 @@
       "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#1E3E2D",
+      "#4D4267",
       "#ffffff"
     ],
     "CHAT_BACKGROUND": [
-      "#1E3E2D",
+      "#6A52A8",
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
@@ -130,61 +130,61 @@
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
-      "#254935"
+      "#52476A"
     ],
     "BG_BACKDROP": [
       "#04010173"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#508368",
+      "#6B5E88",
       "#ffffff"
     ],
     "TEXT_LINK": [
-      "#77AB8F",
+      "#A08EC9",
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#1E3E2D",
+      "#6A52A8",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#77AB8F",
+      "#A08EC9",
       "#ffffff"
     ]
   },
   "rawColors": {
-    "PRIMARY": "#1E3E2D",
+    "PRIMARY": "#6A52A8",
     "PRIMARY_100": "#ffffff",
-    "PRIMARY_300": "#77AB8F",
-    "PRIMARY_360": "#77AB8F",
-    "PRIMARY_400": "#77AB8F",
-    "PRIMARY_500": "#1E3C2B",
-    "PRIMARY_600": "#1E3E2D",
-    "PRIMARY_630": "#2D4A3A",
-    "PRIMARY_700": "#1E3E2D",
-    "PRIMARY_800": "#77AB8F",
+    "PRIMARY_300": "#A08EC9",
+    "PRIMARY_360": "#A08EC9",
+    "PRIMARY_400": "#A08EC9",
+    "PRIMARY_500": "#372F48",
+    "PRIMARY_600": "#6A52A8",
+    "PRIMARY_630": "#4D4267",
+    "PRIMARY_700": "#4D4267",
+    "PRIMARY_800": "#6A52A8",
     "PRIMARY_900": "#050505",
     "PLUM_1": "#FFFFFF",
-    "PLUM_10": "#77AB8F",
-    "PLUM_11": "#1E3E2D",
-    "PLUM_13": "#15271D",
-    "PLUM_17": "#1E3E2D",
-    "PLUM_18": "#1E3E2D",
-    "PLUM_19": "#23382D",
-    "PLUM_20": "#1E3E2D",
-    "PLUM_22": "#1E3E2D",
-    "PLUM_24": "#23382D",
-    "BRAND_260": "#1B3B29",
-    "BRAND_500": "#77AB8F",
-    "BRAND_560": "#77AB8F",
+    "PLUM_10": "#A08EC9",
+    "PLUM_11": "#4D4267",
+    "PLUM_13": "#534B65",
+    "PLUM_17": "#6A52A8",
+    "PLUM_18": "#6A52A8",
+    "PLUM_19": "#594B7A",
+    "PLUM_20": "#6A52A8",
+    "PLUM_22": "#6A52A8",
+    "PLUM_24": "#594B7A",
+    "BRAND_260": "#48405A",
+    "BRAND_500": "#A08EC9",
+    "BRAND_560": "#A08EC9",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
-    "YELLOW_300": "#508368",
-    "YELLOW_260": "#508368",
+    "YELLOW_300": "#A08EC9",
+    "YELLOW_260": "#A08EC9",
     "GREEN_600": "#ffffff",
     "DANGER": "#89D59E",
     "RED": "#848484",
-    "RED_400": "#508368"
+    "RED_400": "#A08EC9"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
