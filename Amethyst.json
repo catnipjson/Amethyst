@@ -8,6 +8,9 @@
       "id": "980160393093730395"
     }
   ],
+  "plus": {
+       "version": 0
+  },
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#ffffff",
